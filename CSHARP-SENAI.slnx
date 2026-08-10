@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Activities/">
     <Project Path="Activitie 1/Activitie 1.csproj" />
+    <Project Path="Activitie 2/Activitie 2.csproj" />
   </Folder>
 </Solution>
