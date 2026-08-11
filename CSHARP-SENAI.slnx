@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Activities/">
-    <Project Path="Activitie 1/Activitie 1.csproj" />
-    <Project Path="Activitie 2/Activitie 2.csproj" />
+    <Project Path="Activitie 1/Activitie 1.csproj" Id="a01638fb-61d1-4e22-bdff-89b6d42d71f7" />
+    <Project Path="Activitie 15/Activitie 15.csproj" Id="b8ea2d74-c0e1-4275-b704-cb7ecdef9f8b" />
   </Folder>
 </Solution>
